@@ -1,0 +1,7 @@
+ticket_id,user_id,department,issue,priority,status,previous_incidents,ticket_age_days
+CAMP-1001,STU001,MCA,Unauthorized computer laboratory access,HIGH,OPEN,2,2
+CAMP-1002,STU002,BCA,Student ID card not working,MEDIUM,RESOLVED,0,5
+CAMP-1003,STU003,MCA,Campus WiFi connection problem,LOW,OPEN,1,1
+CAMP-1004,STU004,BBA,Library account access issue,MEDIUM,IN PROGRESS,0,3
+CAMP-1005,STU005,MCA,Suspicious activity reported in laboratory,HIGH,OPEN,3,4
+CAMP-1006,STU006,BCA,Examination portal login problem,HIGH,IN PROGRESS,1,2
